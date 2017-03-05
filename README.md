@@ -1,7 +1,7 @@
 # DataStructures
 Data Structures Class Projects (C++)
 
-Prof. Barb Cutler
+Prof. Barb Cutler: 
 http://www.cs.rpi.edu/~cutler/
 ## Programming concepts: 
 Functions, parameter passing, pointers, arrays, strings, structs, classes, templates. 
