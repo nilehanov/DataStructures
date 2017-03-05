@@ -10,4 +10,4 @@ Sets, functions, and relations, order notation, complexity of algorithms, proof 
 ## Data structures and their representations: 
 Data abstraction and internal representation, sequences, trees, binary search trees, associative structures. 
 ## Algorithms: 
-Searching and sorting, generic algorithms, iterative and recursive algorithms. Methods of testing correctness and measuring performance
+Searching and sorting, generic algorithms, iterative and recursive algorithms. 
