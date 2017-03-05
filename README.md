@@ -3,7 +3,7 @@ Data Structures Class Projects (C++)
 
 Prof. Barb Cutler
 http://www.cs.rpi.edu/~cutler/
-# Programming concepts: 
+## Programming concepts: 
 Functions, parameter passing, pointers, arrays, strings, structs, classes, templates. 
 # Mathematical tools: 
 Sets, functions, and relations, order notation, complexity of algorithms, proof by induction. 
