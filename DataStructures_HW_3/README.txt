@@ -1,4 +1,5 @@
-HOMEWORK 3: JAGGED ARRAY
+HOMEWORK 3: JAGGED ARRAY 
+Description: hw3.pdf
 
 
 NAME:  < NAIL HANOV >
