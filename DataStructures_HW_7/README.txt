@@ -1,7 +1,7 @@
 HOMEWORK 7: WORD FREQUENCY MAPS
 Description: hw7.pdf
 
-NAME:  < insert name >
+NAME:  < Nail Hanov >
 
 
 COLLABORATORS:  
